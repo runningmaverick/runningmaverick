@@ -21,7 +21,7 @@
 |![](https://github-readme-stats.vercel.app/api?username=runningmaverick)|![Anzhihe's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=runningmaverick&layout=compact&hide_border=true&langs_count=10)|
 |-|-|
 
-![](https://raw.githubusercontent.com/running/anzhihe/main/assets/github-contribution-grid-snake.svg)  
+![](https://raw.githubusercontent.com/runningmaverick/runningmaverick/main/assets/github-contribution-grid-snake.svg)  
 
 <!--
 **runningmaverick/runningmaverick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
